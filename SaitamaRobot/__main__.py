@@ -53,7 +53,8 @@ def get_readable_time(seconds: int) -> str:
 PM_START_TEXT = """
 Hi {}, my name is {}! 
 
-I am an Anime themed group management bot with a lot of Special Features.
+I am an Anime themed advance group management bot with a lot of Special Features.
+
 You can find my list of available commands with /help.
 
 -> FREE MOVIES AND SERIES ON [HINDI K DRAMA](https://Hindikdrama.xyz)
